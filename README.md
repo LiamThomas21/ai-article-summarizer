@@ -1,5 +1,5 @@
 # AI Article Summarizer
-![AI Summarizer]()
+![AI Summarizer](src/preview/preview.png)
 
 ## Breakdown
 This is an AI Article Summarizer which uses the Article Extractor and Summarizer
